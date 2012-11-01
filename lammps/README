@@ -1,0 +1,12 @@
+Copy this directory to the src directory of your LAMMPS source
+to allow the inclusion in a LAMMPS build.
+
+Before building lammps issue the following command from the source
+directory:
+
+    make yes-user-pointpot
+
+This will this package in your lammps build.
+
+You must have already built the pointpot library and have it and its
+header file included in the relevant environmental variables.

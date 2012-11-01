@@ -1,0 +1,2 @@
+Python interface is currently broken. Had many dependencies to other packages,
+and it is not easy to break these dependencies. Code is currently not complete.
